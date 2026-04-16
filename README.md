@@ -104,20 +104,7 @@ Script Include (IncidentAIAjax)
 
 ## 📸 Screenshots
 
-### 1. Risk Score & Prediction
-![Risk](screenshots/risk_score.png)
-
-### 2. Suggested Resolution
-![Resolution](screenshots/resolution.png)
-
-### 3. Assignment Suggestion
-![Assignment](screenshots/assignment.png)
-
-### 4. UI Button
-![Button](screenshots/ui_button.png)
-
-### 5. AI Suggestion Popup
-![Popup](screenshots/popup.png)
+### Available in the Screenshots folder
 
 ---
 
